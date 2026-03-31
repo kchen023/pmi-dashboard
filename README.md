@@ -1,4 +1,4 @@
-# Scenario Forecast: How the 18-Month Monetary Lag Predetermines Presidential PMI Trajectories
+# Scenario Forecast: How the 18-Month Monetary Policy Lag Predetermines PMI Trajectories
 
 **Live Dashboard →** [kchen023.github.io/pmi-dashboard](https://kchen023.github.io/pmi-dashboard/)
 
@@ -14,7 +14,7 @@ This project visualizes and stress-tests that thesis across five presidential tr
 
 ## Why PMI? Why the Yield Pipeline?
 
-### ISM Manufacturing PMI as the Economic Barometer
+### ISM Manufacturing PMI as the Economic Barometer (Note: Research shows that PMI leads current economic outlook by 6 months)
 
 The ISM Manufacturing Purchasing Managers' Index (PMI) is one of the most reliable **Leading Economic Indicators (LEIs)** in macroeconomic analysis:
 
